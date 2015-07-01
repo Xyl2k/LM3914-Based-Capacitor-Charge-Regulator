@@ -1,3 +1,5 @@
+![LM3914](https://cloud.githubusercontent.com/assets/8536299/8458104/71950078-2015-11e5-9b2b-073003fdc8b2.png)
+
 LM3914-Based-Capacitor-Charge-Regulator
 =======================================
 
